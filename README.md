@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 I am a full-stack developer, and I see the meaning of my work as making the life of users easier and helping them in solving their problems.
 
